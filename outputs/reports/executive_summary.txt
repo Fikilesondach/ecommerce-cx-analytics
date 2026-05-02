@@ -1,0 +1,49 @@
+EXECUTIVE SUMMARY — ECOMMERCE CX ANALYTICS
+Multi-Brand Contact Centre | January 2022 – December 2023
+Generated automatically from ecommerce-cx-analytics pipeline
+==============================================================
+
+VOLUME & SCALE
+  Total contacts handled (24 months, all brands): 299,017
+  Four brands: Takealot, MrD, Sellers, TFS
+  Three channels: Phone (declining), Chat (growing), Email (stable)
+  Strong seasonality confirmed: November Black Friday spike ~40% above baseline.
+
+FINANCIAL PERFORMANCE
+  Total actual cost    : R9,113,965
+  Total budgeted cost  : R8,318,156
+  Total variance       : +R795,809 (+9.6% over budget)
+  Primary driver       : Contact volume exceeded budget assumptions across all brands.
+  Largest overrun      : Sellers at +10.5% over budget.
+  Volume variance accounts for >99% of total overrun; rate and mix variance negligible.
+
+CUSTOMER EXPERIENCE
+  Average CSAT score   : 7.62 / 10 (target: 7.5)
+  Average FCR rate     : 76.2%
+  Highest CSAT brand   : Sellers (8.20)
+  Lowest CSAT brand    : TFS (7.00)
+  CSAT degrades during Black Friday and December peaks — consistent with
+  volume-driven agent strain. Recovery to baseline within 4–6 weeks post-peak.
+
+FORECAST (January – June 2024)
+  Holt-Winters triple exponential smoothing applied per brand.
+  Model MAPE: <1.1% across all brands (in-sample validation).
+  Takealot projected to exceed 5,500 monthly contacts by April 2024.
+  MrD and TFS show steady growth; Sellers stable at lower volume.
+
+CAPACITY REQUIREMENTS (Base Scenario)
+  Peak headcount required: 17 FTE across all brands (April 2024, base scenario).
+  Under growth scenario (+20%): 21 FTE.
+  Under stress scenario (+40%): 24 FTE.
+  Recommendation: plan for 20–22 FTE to absorb expected growth without service risk.
+
+RECOMMENDATIONS
+  1. Revise volume assumptions in annual budget — consistent underestimation
+     across all brands suggests the budgeting model needs recalibration.
+  2. Prioritise chat channel investment — cost per contact is 57% lower than phone
+     and chat volume is growing. Accelerating the channel shift reduces cost base.
+  3. Pre-recruit ahead of November — Black Friday staffing must be confirmed by
+     September. Stress scenario headcount (24 FTE) is the planning ceiling.
+  4. CSAT intervention for TFS — sitting below the 7.5 target floor.
+     Root cause analysis on FCR and AHT recommended before Q3.
+==============================================================
