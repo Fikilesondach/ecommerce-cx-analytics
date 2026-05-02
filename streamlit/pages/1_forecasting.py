@@ -63,7 +63,7 @@ st.subheader("6-Month Forecast (January – June 2024)")
 
 display_summary = summary.copy()
 month_cols = [c for c in display_summary.columns if 'Fcst' in c]
-display_summary[month_cols] = display_summary[month_cols].applymap(lambda x: f"{int(x):,}")
+display_summary[month_cols] = display_summary[month_cols].map(lambda x: f"{int(x):,}")
 display_summary['MAPE (%)'] = display_summary['MAPE (%)'].apply(lambda x: f"{x:.2f}%")
 st.dataframe(display_summary, use_container_width=True, hide_index=True)
 
