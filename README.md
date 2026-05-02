@@ -4,6 +4,10 @@ A contact centre analytics and forecasting engine for a simulated multi-brand So
 
 Built to demonstrate end-to-end analytical capability across forecasting, budget modelling, cost allocation, capacity planning, and executive reporting — the core competencies required for senior CX analytics roles in financial services and e-commerce.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ecommerce-cx-analytics-2bwkfuiappjkmz7gm8uvfgo.streamlit.app)
+
+> **Live app:** [https://ecommerce-cx-analytics-6cznqxwthg2yd4nblzqjqt.streamlit.app](https://ecommerce-cx-analytics-6cznqxwthg2yd4nblzqjqt.streamlit.app)
+
 ---
 
 ## What This Project Does
